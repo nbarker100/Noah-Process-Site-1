@@ -20,7 +20,7 @@ Just un comment the #banner rule below. */
 /* If you want to change the banner button color. The following two css rules use a class called "redbtn".
 You can call the class whatever you want, but in order for it to work, it needs to be
 added to the button in the index html file as well.*/
-#banner .button.redbtn {
+#banner .button.yellowbtn {
   background-color: #fbbc3e;
   box-shadow: none;
 }
